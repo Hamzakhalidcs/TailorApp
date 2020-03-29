@@ -30,7 +30,7 @@
     "cordova-browser": "^6.0.0",
     "core-js": "^2.5.4",
     "express": "^4.17.1",
-    "firebase": "^7.11.0",
+    "firebase": "^7.13.1",
     "ionic-img-viewer": "^2.9.0",
     "rxjs": "~6.5.1",
     "rxjs-compat": "^6.5.4",

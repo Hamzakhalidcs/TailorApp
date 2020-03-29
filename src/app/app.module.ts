@@ -20,13 +20,7 @@ import { AngularFirestoreModule, } from '@angular/fire/firestore';
 import { Platform, NavController, MenuController, ToastController } from '@ionic/angular';
 import { PopoverComponent } from './popover/popover.component';
 import { ImageModalPageModule } from './pages/image-modal/image-modal.module';
-import { SkfabPageModule } from './pages/skfab/skfab.module';
-
-
-
-
-
-
+//import { SkfabPageModule } from './pages/skfab/skfab.module';
 
 @NgModule({
   declarations: [AppComponent, PopoverComponent],
