@@ -29,7 +29,7 @@
     "@ionic/storage": "^2.2.0",
     "cordova-browser": "^6.0.0",
     "core-js": "^2.5.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase": "^7.11.0",
     "ionic-img-viewer": "^2.9.0",
     "rxjs": "~6.5.1",
